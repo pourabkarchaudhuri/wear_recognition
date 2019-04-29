@@ -1,0 +1,36 @@
+training/aligned_dataset/Ashish\IMG_20181122_122813.png
+training/aligned_dataset/Ashish\IMG_20181122_122815.png 1501 1500 2008 2044
+training/aligned_dataset/Ashish\IMG_20181122_122818.png
+training/aligned_dataset/Ashish\IMG_20181122_122820.png
+training/aligned_dataset/Ashish\IMG_20181122_122823.png 2292 762 2698 1208
+training/aligned_dataset/Ashish\IMG_20181122_122825.png 1067 1354 1585 1990
+training/aligned_dataset/Ashish\IMG_20181122_122826.png 444 995 1068 1716
+training/aligned_dataset/Ashish\IMG_20181122_122831_BURST1.png 1544 1459 1910 1895
+training/aligned_dataset/Ashish\IMG_20181122_122831_BURST10.png 1298 1400 1841 1978
+training/aligned_dataset/Ashish\IMG_20181122_122831_BURST11.png
+training/aligned_dataset/Ashish\IMG_20181122_122831_BURST12.png 1399 1400 1838 1911
+training/aligned_dataset/Ashish\IMG_20181122_122831_BURST13.png 1513 1381 1880 1876
+training/aligned_dataset/Ashish\IMG_20181122_122831_BURST2.png 1526 1472 1902 1936
+training/aligned_dataset/Ashish\IMG_20181122_122831_BURST3.png 1531 1494 1904 1940
+training/aligned_dataset/Ashish\IMG_20181122_122831_BURST4.png 1530 1517 1898 1963
+training/aligned_dataset/Ashish\IMG_20181122_122911_BURST10.png
+training/aligned_dataset/Ashish\IMG_20181122_122911_BURST11.png 1318 1908 1570 2177
+training/aligned_dataset/Ashish\IMG_20181122_122911_BURST12.png
+training/aligned_dataset/Ashish\IMG_20181122_122911_BURST13.png 1207 1397 1800 2017
+training/aligned_dataset/Ashish\IMG_20181122_122911_BURST14.png 1208 1393 1798 2009
+training/aligned_dataset/Ashish\IMG_20181122_122911_BURST3.png 1333 1956 1570 2216
+training/aligned_dataset/Ashish\IMG_20181122_122911_BURST4.png 1333 1927 1585 2193
+training/aligned_dataset/Ashish\IMG_20181122_122911_BURST5.png
+training/aligned_dataset/Ashish\IMG_20181122_122911_BURST6.png
+training/aligned_dataset/Ashish\IMG_20181122_122911_BURST7.png
+training/aligned_dataset/Ashish\IMG_20181122_122911_BURST8.png 1401 1458 1813 2004
+training/aligned_dataset/Ashish\IMG_20181122_122911_BURST9.png
+training/aligned_dataset/Manohar\IMG_20180802_125448.png
+training/aligned_dataset/Manohar\IMG_20180802_125449.png
+training/aligned_dataset/Manohar\IMG_20180802_125449_1.png
+training/aligned_dataset/Manohar\IMG_20180802_125449_2.png
+training/aligned_dataset/Manohar\IMG_20180802_125451_1.png
+training/aligned_dataset/Manohar\IMG_20180802_125451_2.png
+training/aligned_dataset/Manohar\MVIMG_20180802_125447.png
+training/aligned_dataset/Manohar\MVIMG_20180802_125447_2.png
+training/aligned_dataset/Manohar\MVIMG_20180802_125452_1.png

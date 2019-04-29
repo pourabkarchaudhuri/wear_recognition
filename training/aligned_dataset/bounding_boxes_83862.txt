@@ -1,0 +1,12 @@
+training/aligned_dataset/Immanuel\IMG_20180802_124031.png 2548 1501 2597 1554
+training/aligned_dataset/Immanuel\MVIMG_20180802_124023.png 993 1268 1740 2274
+training/aligned_dataset/Immanuel\IMG_20180802_124028.png 2841 1291 2887 1341
+training/aligned_dataset/Immanuel\IMG_20180802_124024_2.png 3530 690 3628 809
+training/aligned_dataset/Immanuel\IMG_20180802_124028_3.png 1288 1114 1336 1167
+training/aligned_dataset/Immanuel\IMG_20180802_124024_1.png 973 1330 1741 2297
+training/aligned_dataset/Immanuel\MVIMG_20180802_124024_1.png 993 1309 1735 2294
+training/aligned_dataset/Immanuel\MVIMG_20180802_123947.png 1113 1256 1798 2181
+training/aligned_dataset/Immanuel\IMG_20180802_124028_2.png 2012 783 2057 830
+training/aligned_dataset/Immanuel\IMG_20180802_124029_1.png 1039 1192 1714 1929
+training/aligned_dataset/Immanuel\IMG_20180802_124025_1.png 3457 1033 3565 1168
+training/aligned_dataset/Immanuel\IMG_20180802_124030_1.png 2466 1170 2515 1223

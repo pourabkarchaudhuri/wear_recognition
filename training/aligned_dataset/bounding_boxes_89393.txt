@@ -1,0 +1,3 @@
+training/aligned_dataset/Manohar\IMG_20180802_125442.png 1126 941 1885 1972
+training/aligned_dataset/Manohar\IMG_20180802_125442_1.png 1188 922 1982 1982
+training/aligned_dataset/Manohar\IMG_20180802_125446_1.png 841 978 1669 2020

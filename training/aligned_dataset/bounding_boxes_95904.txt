@@ -1,0 +1,9 @@
+training/aligned_dataset/Manohar\IMG_20180802_125450.png 547 1110 1590 2535
+training/aligned_dataset/Manohar\IMG_20180802_125448.png
+training/aligned_dataset/Manohar\MVIMG_20180802_125453.png 3248 1399 3325 1486
+training/aligned_dataset/Manohar\IMG_20180802_125449_1.png
+training/aligned_dataset/Manohar\MVIMG_20180802_125447_3.png 3727 1089 3826 1193
+training/aligned_dataset/Manohar\IMG_20180802_125448_1.png 3910 933 4021 1058
+training/aligned_dataset/Manohar\IMG_20180802_125450_1.png 556 1100 1573 2545
+training/aligned_dataset/Manohar\IMG_20180802_125442_2.png 1142 850 1915 1907
+training/aligned_dataset/Manohar\IMG_20180802_125451_1.png
